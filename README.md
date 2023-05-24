@@ -1,5 +1,5 @@
 # Animixplay-page
-The landing of the then famous anime page ANIMIXPLAY 
+The over simplified landing page of the then famous anime page ANIMIXPLAY 
 
 See the output of the code
 
