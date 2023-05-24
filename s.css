@@ -1,0 +1,45 @@
+h5{
+    color: black;
+}
+h2{
+    color: black;
+}
+.par{
+    margin-top:0;
+    text-align: center;
+    color: rgb(1, 14, 14);
+    height:400px ;
+    background: url(img/urname1.jpg) center fixed no-repeat ;
+    background-size: cover;
+}
+.ad h1{
+    padding: 100px;
+
+}
+.con{
+    background-color: rgb(41, 39, 39);
+    color: white;
+    padding: 90px;
+}
+.ar {
+    background-color: rgb(41, 39, 39);
+    height: 400px;
+    color: whitesmoke;
+    text-align: center;
+}    
+.ar h1{
+    padding: 50px;
+    text-align: center;   
+}  
+.ar p{
+    font-size:20px;
+    padding: 10px;
+    text-align: center;
+}
+.par img{
+    padding: 50px;
+}  
+.tec{
+    padding: 90px;
+}  
+  
